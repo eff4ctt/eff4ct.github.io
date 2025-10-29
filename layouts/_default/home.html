@@ -1,0 +1,11 @@
+{{ define "main" }}
+<h2>Articles récents</h2>
+<ul class="article-list">
+    {{ range first 10 (where .Site.RegularPages "Type" "posts") }}
+    <li class="article-item">
+        <div class="article-date">{{ .Date.Format "2006-01-02" }}</div>
+        <a href="{{ .Permalink }}" class="article-title">{{ .Title }}</a>
+    </li>
+    {{ end }}
+</ul>
+{{ end }}

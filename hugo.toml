@@ -1,0 +1,29 @@
+baseURL = 'https://votre-username.github.io/'
+languageCode = 'fr-fr'
+title = 'Votre Nom - Cybersecurity Blog'
+theme = 'minimal-blog'
+
+[params]
+  author = 'Votre Nom'
+  description = 'Cybersecurity Researcher & CTF Player'
+  tagline = 'Writeups, Research & Security Analysis'
+
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = 'Articles'
+    url = '/posts/'
+    weight = 2
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 3
+
+[markup]
+  [markup.highlight]
+    style = 'monokai'
+    lineNos = true
+    lineNumbersInTable = true
