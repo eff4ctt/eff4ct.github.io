@@ -26,3 +26,9 @@ title = 'Votre Nom - Cybersecurity Blog'
     style = 'monokai'
     lineNos = true
     lineNumbersInTable = true
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
