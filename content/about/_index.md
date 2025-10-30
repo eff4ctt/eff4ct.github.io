@@ -1,30 +1,23 @@
 ---
-title: "À propos"
+title: "About"
 date: 2025-10-29
 draft: false
 ---
 
-## Bonjour !
+## Hello!
 
-Je suis un chercheur en cybersécurité passionné par la sécurité offensive, les CTF et la recherche de vulnérabilités.
+I'm an 18-year-old cybersecurity enthusiast based in Bordeaux, France. I'm passionate about offensive security, CTF competitions, and vulnerability research.
 
-### Domaines d'expertise
+### Interests
 
 - Web Application Security
-- Binary Exploitation
-- Reverse Engineering
-- Bug Bounty
+- Bug Bounty Hunting
 - CTF Competitions
 
 ### Contact
 
-- Email: votre.email@example.com
-- Twitter: [@votre_handle](https://twitter.com/votre_handle)
-- GitHub: [votre_username](https://github.com/votre_username)
-- LinkedIn: [Votre Profil](https://linkedin.com/in/votre_profil)
+- Email: mattmrle@gmail.com
+- GitHub: [eff4ctt](https://github.com/eff4ctt)
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/matt-morili%C3%A8re-b771b2341/)
 
-### Certifications
-
-- À ajouter selon vos certifications (OSCP, OSWE, etc.)
-
-N'hésitez pas à me contacter pour toute question ou collaboration !
+Feel free to reach out for collaboration or questions !
