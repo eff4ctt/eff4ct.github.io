@@ -1,7 +1,6 @@
-baseURL = 'https://votre-username.github.io/'
+baseURL = 'https://eff4ctt.github.io/'
 languageCode = 'fr-fr'
 title = 'Votre Nom - Cybersecurity Blog'
-theme = 'minimal-blog'
 
 [params]
   author = 'Votre Nom'
