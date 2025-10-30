@@ -2,6 +2,7 @@
 title: "About"
 date: 2025-10-29
 draft: false
+layout: single
 ---
 
 ## Hello!
@@ -18,6 +19,6 @@ I'm an 18-year-old cybersecurity enthusiast based in Bordeaux, France. I'm passi
 
 - Email: mattmrle@gmail.com
 - GitHub: [eff4ctt](https://github.com/eff4ctt)
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/matt-morili%C3%A8re-b771b2341/)
+- LinkedIn: [Matt Morilière](https://www.linkedin.com/in/matt-morili%C3%A8re-b771b2341/)
 
-Feel free to reach out for collaboration or questions !
+Feel free to reach out for collaboration or questions!
