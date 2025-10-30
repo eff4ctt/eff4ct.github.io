@@ -1,6 +1,6 @@
 baseURL = 'https://eff4ctt.github.io/'
 languageCode = 'fr-fr'
-title = 'Votre Nom - Cybersecurity Blog'
+title = 'effect - Cybersecurity Blog'
 
 [params]
   author = 'Votre Nom'
@@ -14,11 +14,11 @@ title = 'Votre Nom - Cybersecurity Blog'
     weight = 1
   [[menu.main]]
     name = 'Articles'
-    url = '/posts/'
+    url = '*../content/posts/'
     weight = 2
   [[menu.main]]
     name = 'About'
-    url = '/about/'
+    url = '../content/about/'
     weight = 3
 
 [markup]
